@@ -1,4 +1,4 @@
-# Todo-Level-2-Task-3
+# Todo-Oasis-Infobyte-Level-2-Task-3
 
 It is a Oasis Infobyte Level 2 Task 3 of code to develop a basic todo webapp.
 It uses ReactJS and displays the incomplete and completed tasks. 
